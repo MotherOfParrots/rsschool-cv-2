@@ -22,7 +22,6 @@ I got a law degree, worked as a freelance illustrator for several years, but now
 
 ```
 function rentalCarCost(d) {
-  // Your solution here
   const f = (40 * d);
   let sum;
   if (3 <= d && d < 7) {
@@ -36,7 +35,6 @@ function rentalCarCost(d) {
 }
 
 ```
-
 ## Education:
 
 * Kemerovo State University:
