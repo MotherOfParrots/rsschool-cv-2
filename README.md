@@ -1,2 +1,2 @@
 # rsschool-cv
-https://MotherOfParrots.github.io/rsschool-cv/cv
+link: https://MotherOfParrots.github.io/rsschool-cv/cv  
